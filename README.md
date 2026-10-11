@@ -1,4 +1,4 @@
-# PFE Manager
+# PFE Manager 📚📝
 
 > Application web full-stack de gestion des projets de fin d'études — suivi des stages, étudiants, entreprises, encadrants et génération automatique de rapports PDF.
 
